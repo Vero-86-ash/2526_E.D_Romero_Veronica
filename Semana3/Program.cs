@@ -98,7 +98,7 @@ namespace RegistroEstudiantes
                 }
                 else if (opcion == "3")
                 {
-                    Console.WriteLine("Saliendo del programa...");
+                    Console.WriteLine("Saliendo del programa....");
                     break;
                 }
                 else
