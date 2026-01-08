@@ -26,3 +26,4 @@ C:\Users\User\Desktop\Proyectos.Parcial1\Semana3\obj\Debug\net10.0\refint\Semana
 C:\Users\User\Desktop\Proyectos.Parcial1\Semana3\obj\Debug\net10.0\Semana3.pdb
 C:\Users\User\Desktop\Proyectos.Parcial1\Semana3\obj\Debug\net10.0\Semana3.genruntimeconfig.cache
 C:\Users\User\Desktop\Proyectos.Parcial1\Semana3\obj\Debug\net10.0\ref\Semana3.dll
+C:\Users\User\Desktop\Proyectos.Parcial1\Semana3\obj\Debug\net10.0\Semana3.sourcelink.json

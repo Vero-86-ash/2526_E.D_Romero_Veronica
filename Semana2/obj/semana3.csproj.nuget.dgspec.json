@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Proyectos.Parcial1\\Semana2\\semana3.csproj": {}
+    "C:\\Proyectos.Parcial1\\Proyectos.Parcial1\\Semana2\\semana3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Proyectos.Parcial1\\Semana2\\semana3.csproj": {
+    "C:\\Proyectos.Parcial1\\Proyectos.Parcial1\\Semana2\\semana3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Proyectos.Parcial1\\Semana2\\semana3.csproj",
+        "projectUniqueName": "C:\\Proyectos.Parcial1\\Proyectos.Parcial1\\Semana2\\semana3.csproj",
         "projectName": "semana3",
-        "projectPath": "C:\\Users\\User\\Desktop\\Proyectos.Parcial1\\Semana2\\semana3.csproj",
+        "projectPath": "C:\\Proyectos.Parcial1\\Proyectos.Parcial1\\Semana2\\semana3.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Proyectos.Parcial1\\Semana2\\obj\\",
+        "outputPath": "C:\\Proyectos.Parcial1\\Proyectos.Parcial1\\Semana2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"

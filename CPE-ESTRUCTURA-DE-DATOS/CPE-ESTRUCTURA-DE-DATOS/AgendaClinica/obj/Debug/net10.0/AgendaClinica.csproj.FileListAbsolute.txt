@@ -1,0 +1,29 @@
+C:\ESTRUCTURA DE DATOS CPE\CPE-ESTRUCTURA-DE-DATOS\AgendaClinica\bin\Debug\net10.0\AgendaClinica.exe
+C:\ESTRUCTURA DE DATOS CPE\CPE-ESTRUCTURA-DE-DATOS\AgendaClinica\bin\Debug\net10.0\AgendaClinica.dll
+C:\ESTRUCTURA DE DATOS CPE\CPE-ESTRUCTURA-DE-DATOS\AgendaClinica\obj\Debug\net10.0\AgendaClinica.GeneratedMSBuildEditorConfig.editorconfig
+C:\ESTRUCTURA DE DATOS CPE\CPE-ESTRUCTURA-DE-DATOS\AgendaClinica\obj\Debug\net10.0\AgendaClinica.AssemblyInfoInputs.cache
+C:\ESTRUCTURA DE DATOS CPE\CPE-ESTRUCTURA-DE-DATOS\AgendaClinica\obj\Debug\net10.0\AgendaClinica.AssemblyInfo.cs
+C:\ESTRUCTURA DE DATOS CPE\CPE-ESTRUCTURA-DE-DATOS\AgendaClinica\obj\Debug\net10.0\AgendaClinica.csproj.CoreCompileInputs.cache
+C:\ESTRUCTURA DE DATOS CPE\CPE-ESTRUCTURA-DE-DATOS\AgendaClinica\obj\Debug\net10.0\AgendaClinica.dll
+C:\ESTRUCTURA DE DATOS CPE\CPE-ESTRUCTURA-DE-DATOS\AgendaClinica\obj\Debug\net10.0\refint\AgendaClinica.dll
+C:\ESTRUCTURA DE DATOS CPE\CPE-ESTRUCTURA-DE-DATOS\AgendaClinica\obj\Debug\net10.0\AgendaClinica.pdb
+C:\ESTRUCTURA DE DATOS CPE\CPE-ESTRUCTURA-DE-DATOS\AgendaClinica\bin\Debug\net10.0\AgendaClinica.deps.json
+C:\ESTRUCTURA DE DATOS CPE\CPE-ESTRUCTURA-DE-DATOS\AgendaClinica\bin\Debug\net10.0\AgendaClinica.runtimeconfig.json
+C:\ESTRUCTURA DE DATOS CPE\CPE-ESTRUCTURA-DE-DATOS\AgendaClinica\bin\Debug\net10.0\AgendaClinica.pdb
+C:\ESTRUCTURA DE DATOS CPE\CPE-ESTRUCTURA-DE-DATOS\AgendaClinica\obj\Debug\net10.0\AgendaClinica.genruntimeconfig.cache
+C:\ESTRUCTURA DE DATOS CPE\CPE-ESTRUCTURA-DE-DATOS\AgendaClinica\obj\Debug\net10.0\ref\AgendaClinica.dll
+C:\Users\User\Desktop\Proyectos.Parcial1\CPE-ESTRUCTURA-DE-DATOS\CPE-ESTRUCTURA-DE-DATOS\AgendaClinica\bin\Debug\net10.0\AgendaClinica.exe
+C:\Users\User\Desktop\Proyectos.Parcial1\CPE-ESTRUCTURA-DE-DATOS\CPE-ESTRUCTURA-DE-DATOS\AgendaClinica\bin\Debug\net10.0\AgendaClinica.deps.json
+C:\Users\User\Desktop\Proyectos.Parcial1\CPE-ESTRUCTURA-DE-DATOS\CPE-ESTRUCTURA-DE-DATOS\AgendaClinica\bin\Debug\net10.0\AgendaClinica.runtimeconfig.json
+C:\Users\User\Desktop\Proyectos.Parcial1\CPE-ESTRUCTURA-DE-DATOS\CPE-ESTRUCTURA-DE-DATOS\AgendaClinica\bin\Debug\net10.0\AgendaClinica.dll
+C:\Users\User\Desktop\Proyectos.Parcial1\CPE-ESTRUCTURA-DE-DATOS\CPE-ESTRUCTURA-DE-DATOS\AgendaClinica\bin\Debug\net10.0\AgendaClinica.pdb
+C:\Users\User\Desktop\Proyectos.Parcial1\CPE-ESTRUCTURA-DE-DATOS\CPE-ESTRUCTURA-DE-DATOS\AgendaClinica\obj\Debug\net10.0\AgendaClinica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Proyectos.Parcial1\CPE-ESTRUCTURA-DE-DATOS\CPE-ESTRUCTURA-DE-DATOS\AgendaClinica\obj\Debug\net10.0\AgendaClinica.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Proyectos.Parcial1\CPE-ESTRUCTURA-DE-DATOS\CPE-ESTRUCTURA-DE-DATOS\AgendaClinica\obj\Debug\net10.0\AgendaClinica.AssemblyInfo.cs
+C:\Users\User\Desktop\Proyectos.Parcial1\CPE-ESTRUCTURA-DE-DATOS\CPE-ESTRUCTURA-DE-DATOS\AgendaClinica\obj\Debug\net10.0\AgendaClinica.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proyectos.Parcial1\CPE-ESTRUCTURA-DE-DATOS\CPE-ESTRUCTURA-DE-DATOS\AgendaClinica\obj\Debug\net10.0\AgendaClinica.sourcelink.json
+C:\Users\User\Desktop\Proyectos.Parcial1\CPE-ESTRUCTURA-DE-DATOS\CPE-ESTRUCTURA-DE-DATOS\AgendaClinica\obj\Debug\net10.0\AgendaClinica.dll
+C:\Users\User\Desktop\Proyectos.Parcial1\CPE-ESTRUCTURA-DE-DATOS\CPE-ESTRUCTURA-DE-DATOS\AgendaClinica\obj\Debug\net10.0\refint\AgendaClinica.dll
+C:\Users\User\Desktop\Proyectos.Parcial1\CPE-ESTRUCTURA-DE-DATOS\CPE-ESTRUCTURA-DE-DATOS\AgendaClinica\obj\Debug\net10.0\AgendaClinica.pdb
+C:\Users\User\Desktop\Proyectos.Parcial1\CPE-ESTRUCTURA-DE-DATOS\CPE-ESTRUCTURA-DE-DATOS\AgendaClinica\obj\Debug\net10.0\AgendaClinica.genruntimeconfig.cache
+C:\Users\User\Desktop\Proyectos.Parcial1\CPE-ESTRUCTURA-DE-DATOS\CPE-ESTRUCTURA-DE-DATOS\AgendaClinica\obj\Debug\net10.0\ref\AgendaClinica.dll
