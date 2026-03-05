@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Estructura Datos\Semana12\bin\Debug\net10.0\Semana12.exe
+C:\Users\User\Desktop\Estructura Datos\Semana12\bin\Debug\net10.0\Semana12.deps.json
+C:\Users\User\Desktop\Estructura Datos\Semana12\bin\Debug\net10.0\Semana12.runtimeconfig.json
+C:\Users\User\Desktop\Estructura Datos\Semana12\bin\Debug\net10.0\Semana12.dll
+C:\Users\User\Desktop\Estructura Datos\Semana12\bin\Debug\net10.0\Semana12.pdb
+C:\Users\User\Desktop\Estructura Datos\Semana12\obj\Debug\net10.0\Semana12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Estructura Datos\Semana12\obj\Debug\net10.0\Semana12.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Estructura Datos\Semana12\obj\Debug\net10.0\Semana12.AssemblyInfo.cs
+C:\Users\User\Desktop\Estructura Datos\Semana12\obj\Debug\net10.0\Semana12.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Estructura Datos\Semana12\obj\Debug\net10.0\Semana12.sourcelink.json
+C:\Users\User\Desktop\Estructura Datos\Semana12\obj\Debug\net10.0\Semana12.dll
+C:\Users\User\Desktop\Estructura Datos\Semana12\obj\Debug\net10.0\refint\Semana12.dll
+C:\Users\User\Desktop\Estructura Datos\Semana12\obj\Debug\net10.0\Semana12.pdb
+C:\Users\User\Desktop\Estructura Datos\Semana12\obj\Debug\net10.0\Semana12.genruntimeconfig.cache
+C:\Users\User\Desktop\Estructura Datos\Semana12\obj\Debug\net10.0\ref\Semana12.dll
